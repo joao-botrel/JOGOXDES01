@@ -720,7 +720,7 @@ void menudojogo()
     printf("█                                1 - Jogar                                    █\n");
     printf("█                                2 - Sair                                     █\n");
     printf("█                                3 - Creditos                                 █\n");
-    printf("█                                4 - Ranking                                  █\n");
+    printf("█                                                                             █\n");
     printf("█                                                                             █\n");
     printf("█                                                                             █\n");
     printf("█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█\n");
